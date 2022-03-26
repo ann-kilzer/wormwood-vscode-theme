@@ -3,29 +3,33 @@
 	"colors": {
 		"editor.background": "#061C23",
 		"editor.foreground": "#FBF7EF",
+
 		"contrastBorder": "#51B484",
 
-		"activityBar.background": "#15795B",
-		"activityBar.foreground": "#FBF7EF",
+		"activityBar.background": "#0D3345",
+		"activityBar.foreground": "#51B484",
 		"activityBar.border": "#51B484",
 		"activityBarBadge.background": "#1A936F",
 
-		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBarTitle.foreground": "#F3E9D2",
 		"sideBar.background": "#0D4440",
 		"sideBar.foreground": "#F3E9D2",
 		"sideBar.border": "#51B484",
 		"sideBarSectionHeader.foreground": "#FBF7EF",
-		"sideBarSectionHeader.background": "#1A936F",
+		"sideBarSectionHeader.background": "#12684E",
 		"button.background": "#1A936F",
 
 		"tab.inactiveBackground": "#040F10",
 		"tab.inactiveForeground": "#F3E9D2",
 		"tab.activeBackground": "#0D4440",
 		"editorGroupHeader.tabsBackground": "#030E11",
+		"editorGroupHeader.tabsBorder": "#51B484",
 		"editorGroupHeader.border": "#51B484",
+		"breadcrumb.foreground": "#C6DABF",
 
 		"minimap.background": "#040F10",
 		"terminal.background": "#030E11",
+		"panel.border": "#51B484",
 
 
 		"statusBar.background": "#1A936F",
@@ -36,7 +40,10 @@
 		"scrollbarSlider.activeBackground": "#1A936F",
 
 		"input.background": "#14665F",
-		"dropdown.background": "#14665F"
+		"dropdown.background": "#14665F",
+
+		"notifications.background": "#0D4440",
+		"notifications.foreground": "#F3E9D2"
 	},
 	"tokenColors": [
 		{
