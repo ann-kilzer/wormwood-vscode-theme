@@ -1,0 +1,21 @@
+{
+    "name": "wormwood",
+    "displayName": "wormwood",
+    "description": "Green and mysterious VSCode Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wormwood",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wormwood-color-theme.json"
+            }
+        ]
+    }
+}
